@@ -1,0 +1,6 @@
+{
+    "port": 8899,
+    "transcriptions": {
+        "model": "sensevoice"
+    }
+}
